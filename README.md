@@ -11,10 +11,18 @@ Analytics Engineer & Data Analyst based in Spain. I build end-to-end data pipeli
 
 ## 🛠️ Tech I work with
 
-**Data & Analytics:** dbt · BigQuery · SQL · Python · Airflow  
-**AI & Backend:** FastAPI · Claude API · OpenAI API · Supabase · Railway  
-**BI & Visualization:** Looker · Looker Studio · Tableau · Streamlit  
-**Dev & Infra:** GitHub Actions · CI/CD · Git  
+## 🛠️ Tech I work with
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A27F?logo=anthropic&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ## 📂 Featured Projects
 
