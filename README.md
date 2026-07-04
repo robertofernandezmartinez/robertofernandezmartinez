@@ -31,11 +31,12 @@ Analytics Engineer & Data Analyst based in Spain. I build end-to-end data pipeli
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=googleanalytics&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-232F3E?logo=amazonaws&logoColor=white)
 
 **Dev & Infra:**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 
 ## 📂 Featured Projects
