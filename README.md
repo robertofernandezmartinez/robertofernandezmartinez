@@ -11,18 +11,32 @@ Analytics Engineer & Data Analyst based in Spain. I build end-to-end data pipeli
 
 ## 🛠️ Tech I work with
 
-## 🛠️ Tech I work with
-
+**Data & Analytics:**  
 ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+**AI & Backend:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D4A27F?logo=anthropic&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+
+**BI & Visualization:**  
+![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?logo=googleanalytics&logoColor=white)
+
+**Dev & Infra:**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 
 ## 📂 Featured Projects
 
